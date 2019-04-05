@@ -9,4 +9,7 @@ h1{
 color:#fff;
 font-family: san-sherif; 
 }
-
+container{
+width:100;
+ padding:12px 20px;
+}
