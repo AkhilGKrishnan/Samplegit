@@ -1,1 +1,1 @@
-# This is a sample html page
+# This is a sample html page.
